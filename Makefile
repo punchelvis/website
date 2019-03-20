@@ -8,11 +8,6 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=web-backend.punchelvis.games
-SSH_PORT=22
-SSH_USER=peri
-SSH_TARGET_DIR=/var/www
-
 S3_BUCKET=punch_elvis_web_s3
 
 DROPBOX_DIR=~/Dropbox/Public/
