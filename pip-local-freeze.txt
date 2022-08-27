@@ -1,4 +1,4 @@
-blinker==1.4
+blinker==1.5
 commonmark==0.9.1
 cssmin==0.2.0
 docutils==0.19
