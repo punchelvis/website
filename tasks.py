@@ -13,7 +13,9 @@ CONFIG = {
     # Local path configuration (can be absolute or relative to tasks.py)
     'deploy_path': 'output',
     # Remote server configuration
-    'production': 'peri@web-backend.punchelvis.games:22',
+    # NOTE[peri]: the .games TLD is not routing to us properly as of 2022/08/22
+    #'production': 'peri@web-backend.punchelvis.games:22',
+    'production': 'peri@web-backend.punchelvis.org:22322322'
     'dest_path': '/var/www',
     # Github Pages configuration
     'github_pages_branch': 'gh-pages',
