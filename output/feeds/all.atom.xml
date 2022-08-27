@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Punch Elvis Games</title><link href="https://punchelvis.games/" rel="alternate"></link><link href="https://punchelvis.games/feeds/all.atom.xml" rel="self"></link><id>https://punchelvis.games/</id><updated>2019-04-29T00:00:00+02:00</updated><entry><title>GDC 2019 Retrospective</title><link href="https://punchelvis.games/gdc-2019-retrospective.html" rel="alternate"></link><published>2019-04-29T00:00:00+02:00</published><updated>2019-04-29T00:00:00+02:00</updated><author><name>Jamie Culpon</name></author><id>tag:punchelvis.games,2019-04-29:/gdc-2019-retrospective.html</id><summary type="html">&lt;p&gt;GDC Thoughts from this year:
+1. Big announcements were big, but also kinda boring/expected. I suppose the Google announcements were surprising to people who hadn't been thinking hard/analytically about what would really differentiate Yeti in the console market, but it's hard for me to imagine that the cloud-only …&lt;/p&gt;</summary><content type="html">&lt;p&gt;GDC Thoughts from this year:
+1. Big announcements were big, but also kinda boring/expected. I suppose the Google announcements were surprising to people who hadn't been thinking hard/analytically about what would really differentiate Yeti in the console market, but it's hard for me to imagine that the cloud-only approach of Stadia addressing the parts of the market that can't already shell out for the higher end of consoles and PCs.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;VRDC was a bit of a let down for me. There's definitely awesome stuff happening with Oculus between the Quest and the Rift S, but it still feels like we're a ways away from anyone having a good idea of how to make games for this space beyond the successful examples from the museum/festival games space.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Indiepocalypse is real. The only way out seems to be either doing lots of titles (hard) or embracing open development/streamers-as-marketing so that you can build community before your game ships (also hard, especially exclusionary for queer/not-male/not-white male devs).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Epic Services look really interesting from a dev standpoint, but I'm skeptical of building still more stuff inside the Epic garden. If you're already licencing UE4 it's probably worth looking at more (as I will be in the next few weeks), but I see &lt;em&gt;nothing&lt;/em&gt; in what they're offering right now that makes me think it'd be worth integrating with a Unity/custom engine toolchain. There are too many good analytics/telemetry solutions out there already.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;On the diversity/inclusion front: the games industry still rocks at this in some areas (IGS is full of awesome not-white, not-male, not-rich, not-straight perspectives) but it seems like the larger players are still stuck in the "but what about our pipeline" myopia that is endemic in the larger tech culture.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The things that excite me as a dev also fill me with a lot of trepidation as a player. GameDevs now know that we need to do some amount of player analytics and telemetry to make decisions based on data and end the gut-feeling/loudest-voice-driven development cycle. But there's basically no support for doing this in a way that is consistent with respecting our players' long term privacy and security needs. Outsourcing the responsibility for keeping player data private to a cloud provider is passing the buck, not solving the problem. If there's anywhere that I think a breakthrough in differential anonymity or other low-level cryptographic/mathematical techniques could really help, this is it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Meta-AIs: still a great idea but hard to pull off well. It's nice to see some solid results from smaller studio (esp the Caves of Qud folks) on using WFC and other "fancy" ML techniques in addressing challenges like level generation. It's also amusing to me, at least, that a lot of the places where ML thinking is making a big difference is turning things like classic A* waypoint/pathfinding something that's doable at level generation time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content><category term="misc"></category></entry></feed>
