@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Punch Elvis Games'
 SITENAME = u'Punch Elvis Games'
-SITEURL = 'https://punchelvis.github.io'
+SITEURL = 'https://punchelvis.github.io/website/'
 
 PATH = 'content'
 
