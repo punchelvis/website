@@ -1,0 +1,3 @@
+[submodule "eevee"]
+	path = eevee
+	url = https://github.com/kura/eevee.git
