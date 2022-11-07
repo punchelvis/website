@@ -18,7 +18,7 @@ jobs:
       run: pip install -r pip-local-freeze.txt
       
     - name: Run check
-      run: make check
+      run: make html 
       
     - name: Run distcheck
       run: make distcheck
